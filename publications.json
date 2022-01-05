@@ -1,0 +1,139 @@
+{
+    "Locality": "Paris",
+    "Rote": "https://www.google.com/maps/place/Torre+Eiffel/@48.8577893,2.2928467,17.25z/data=!4m5!3m4!1s0x47e66e2964e34e2d:0x8ddca9ee380ef7e0!8m2!3d48.8583701!4d2.2944813",
+    "Business": "https://www.google.com/maps/place/Le+Jules+Verne/@48.8580708,2.2945903,3a,75.7y,90t/data=!3m8!1e2!3m6!1sAF1QipNm0XW-WTqMov3IlXJogBFfxKvu6AIlSibrwW_I!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNm0XW-WTqMov3IlXJogBFfxKvu6AIlSibrwW_I%3Dw114-h86-k-no!7i1080!8i809!4m13!1m7!3m6!1s0x47e66e2964e34e2d:0x8ddca9ee380ef7e0!2sTorre+Eiffel!8m2!3d48.8583701!4d2.2944813!10e1!3m4!1s0x0:0xb320f5fd1146968f!8m2!3d48.8581148!4d2.2945212",
+    "Title": "Torre Eiffel",
+    "Content": "Famosa torre de ferro forjado de Gustave Eiffel de 1889, com escadas e elevadores para os observatórios. É um dos pontos turisticos mais famosos do mundo e eu achei incrivel. Vocês sabiam que a torre tem um restaurante no topo? Poiseh ela tem, O Le Jules Verne é um restaurante extremamente chique com uma comida excepcional e que vale a pena provar",
+    "Images": [
+        
+    ],
+    "Complement": null
+}
+{
+    "Locality": "Milan",
+    "Rote": "https://www.google.com/maps/place/Piazza+Duomo/@45.4639019,9.1900757,18z/data=!4m12!1m6!3m5!1s0x4786c6aec34636a1:0xab7f4e27101a2e13!2sCatedral+de+Mil%C3%A3o!8m2!3d45.4640976!4d9.1919265!3m4!1s0x4786c05c64928007:0xf3be14eb12b1f0c0!8m2!3d45.4641668!4d9.1896998",
+    "Business": "",
+    "Title": "Piazza Duomo",
+    "Content": "A Piazza Duomo é o primeiro lugar que deve estar na sua lista de pontos turísticos em Milão. Considerada uma das principais praças da Itália e o ponto central de Milão é nela que acontecem os principais acontecimentos, manifestações e eventos da cidade, sendo a sua principal atração a Catedral de Milão. No meio da Piazza Duomo, está o Monumento Equestre de Vittorio Emanuele II e ao seu redor diversas lojas, bares, restaurantes e pessoas vendendo lembrancinhas do lugar e da Itália.",
+    "Images": [
+        
+    ],
+    "Complement": {
+        "Locality": "Milan",
+        "Rote": "https://www.google.com/maps/place/Catedral+de+Mil%C3%A3o/@45.4640976,9.1919265,18z/data=!4m12!1m6!3m5!1s0x4786c6aec34636a1:0xab7f4e27101a2e13!2sCatedral+de+Mil%C3%A3o!8m2!3d45.4640976!4d9.1919265!3m4!1s0x4786c6aec34636a1:0xab7f4e27101a2e13!8m2!3d45.4640976!4d9.1919265",
+        "Business": "",
+        "Title": "Catedral Duomo",
+        "Content": "A Catedral de Milão é considerada a terceira maior igreja do mundo, ficando apenas atrás da Basílica de São Pedro no Vaticano e da Catedral de Sevilha na Espanha, o que faz com que a sua visita até lá seja ainda mais imperdível. O tamanho desta igreja é realmente impressionante, o que faz com que ela reúna milhões de turistas todos os anos.",
+        "Images": [
+        
+        ],
+    }
+}
+
+{
+    "Locality": "São Paulo",
+    "Rote": "https://www.google.com/maps/place/Piazza+Duomo/@45.4639019,9.1900757,18z/data=!4m12!1m6!3m5!1s0x4786c6aec34636a1:0xab7f4e27101a2e13!2sCatedral+de+Mil%C3%A3o!8m2!3d45.4640976!4d9.1919265!3m4!1s0x4786c05c64928007:0xf3be14eb12b1f0c0!8m2!3d45.4641668!4d9.1896998",
+    "Business": "",
+    "Title": "Parque do Carmo",
+    "Content": "Com 1,5 milhão de metros quadrados, o Parque do Carmo é uma das poucas áreas verdes remanescentes na povoada zona leste da cidade. O local conta com flora diversificada e rica fauna de Mata Atlântica. Há também pistas de atletismo, cooper, campo de futebol, trilha ecológica, área para piqueniques, lanchonete, playground, um museu de ecologia, um anfiteatro ao ar livre reservado para shows e, claro, ciclovia.",
+    "Images": [
+        
+    ],
+    "Complement": null
+}
+
+{
+    "Locality": "London",
+    "Rote": "https://www.google.com/maps/place/Trafalgar+Square/@51.5085166,-0.1287657,18z/data=!4m12!1m6!3m5!1s0x487604ce176ac979:0x42af85654e23a0b4!2sNational+Gallery!8m2!3d51.508929!4d-0.128299!3m4!1s0x487604ce3941eb1f:0x1a5342fdf089c627!8m2!3d51.508039!4d-0.128069",
+    "Business": "https://www.google.com/maps/place/National+Gallery/@51.5086903,-0.1285511,18z/data=!4m5!3m4!1s0x487604ce176ac979:0x42af85654e23a0b4!8m2!3d51.508929!4d-0.128299",
+    "Title": "The National Gallery",
+    "Content": "Localizada na famosa praça Trafalgar Square, a National Gallery é um museu de arte que reúne pinturas dos séculos XIII ao XIX. Você vai poder apreciar de perto quadros de artistas célebres como Van Gogh, da Vinci, Botticelli, Constable, Renoir, Titian e Stubbs. A entrada é gratuita, mas certas exposições é preciso comprar ingresso.",
+    "Images": [
+        
+    ],
+    "Complement": null
+}
+
+{
+    "Locality": "Tokyo",
+    "Rote": "https://www.google.com/maps/place/Akihabara,+Taito,+T%C3%B3quio+110-0006,+Jap%C3%A3o/@35.7021768,139.7723633,17z/data=!3m1!4b1!4m5!3m4!1s0x60188ea73ea6f4ff:0x5eb9f1e50fe061e3!8m2!3d35.7022589!4d139.7744733",
+    "Business": "",
+    "Title": "Akihabara",
+    "Content": "Akihabara é um centro comercial movimentado famoso pelos varejistas de eletrônicos, tanto de barraquinhas quanto de grandes lojas de departamento como a Yodobashi Multimedia Akiba. Espaços especializados em mangás, animes e videogames incluem o Tokyo Anime Center, para exibições e suvenires, e a Radio Kaikan, com dez andares de brinquedos, cards e itens colecionáveis. Nos maid cafés da redondeza, a equipe vestida como empregadas domésticas ou mordomos serve chá e sobremesas.",
+    "Images": [
+        
+    ],
+    "Complement": null
+}
+
+{
+    "Locality": "Barcelona",
+    "Rote": "",
+    "Business": "https://www.google.com/maps/place/Museu+Picasso/@41.3852746,2.1787585,17z/data=!3m1!4b1!4m5!3m4!1s0x12a4a2fe99bce26b:0x27011e710700cc63!8m2!3d41.3851725!4d2.180815",
+    "Title": "Museu Picasso de Barcelona",
+    "Content": "é o principal museu da cidade, dedicado à obra do pintor espanhol Pablo Picasso. Foi fundado em 1963 e possui mais de 4200 obras que compõem a coleção permanente. O museu foi idealizado no antigo palácio Berenguer d’Aguilar, um belo prédio de arquitetura gótica, por vontade própria de Pablo Picasso.",
+    "Images": [
+        
+    ],
+    "Complement": null
+}
+
+{
+    "Locality": "New York",
+    "Rote": "https://www.google.com/maps/place/Central+Park/@40.7812239,-73.9687025,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2589a018531e3:0xb9df1f7387a94119!8m2!3d40.7812199!4d-73.9665138",
+    "Business": "",
+    "Title": "Central Park",
+    "Content": "O principal ponto turístico de Nova York é o Central Park. É um parque incrível que fica no meio de Manhattan e é conhecido em todo o mundo. O tamanho dele é realmente muito grande e é preciso algumas horas para conseguir explorar todo o parque. Pegue o mapa ou baixe o aplicativo e reserve um tempo do seu roteiro para ficar passeando por lá e vendo os pontos turísticos.",
+    "Images": [
+        
+    ],
+    "Complement": null
+}
+
+{
+    "Locality": "Lisbon",
+    "Rote": "https://www.google.com/maps/place/Torre+de+Bel%C3%A9m/@38.6916205,-9.2181148,17.25z/data=!4m5!3m4!1s0xd1ecb42c3c29c4b:0x3002dcadcf52513f!8m2!3d38.6915837!4d-9.2159773",
+    "Business": "",
+    "Title": "Torre de Belém",
+    "Content": "A Torre de Belém em Lisboa é o cartão-postal da cidade e não deve ficar de fora da lista do que fazer em Lisboa. Situada às margens do Rio Tejo, a torre já serviu como forte, prisão, alfândega e farol. Ela foi construída há mais de 500 anos, e até hoje é um dos pontos turísticos mais visitados de Portugal. A dica para quem não quer gastar para conhecer e Torre é ir no primeiro domingo de cada mês, quando a entrada é gratuita.",
+    "Images": [
+        
+    ],
+    "Complement": null
+}
+
+{
+    "Locality": "Rome",
+    "Rote": "https://www.google.com/maps/place/Coliseu/@41.8902142,12.4900422,17z/data=!3m1!4b1!4m5!3m4!1s0x132f61b6532013ad:0x28f1c82e908503c4!8m2!3d41.8902102!4d12.4922309",
+    "Business": "",
+    "Title": "Coliseu",
+    "Content": "Símbolo da Itália e do Império romano, o Coliseu em Roma é um dos monumentos mais famosos do mundo e atrai nada mais nada menos do que 4 milhões de turistas todos os anos. Sua construção se iniciou no ano de 72 d.C. e, durante décadas, serviu de palco para gladiadores que lutavam entre si ou com animais para um público de mais de 70 mil romanos. A visita às ruínas do Coliseu é um passeio obrigatório a todos os turistas que visitam Roma, não somente por sua grandeza mas por toda a sua história.",
+    "Images": [
+        
+    ],
+    "Complement": null
+}
+
+
+{
+    "Locality": "London",
+    "Rote": "https://www.google.com/maps/@-23.6788703,-46.7731985,15.25z",
+    "Business": null,
+    "Title": "Public supermercados",
+    "Content": "Tudo nesse mercado é caro",
+    "Images": [
+        "https://nave5.com.br/images/comunicacao-externa-25.jpg",
+        "https://nave5.com.br/images/comunicacao-externa-25.jpg"
+    ],
+    "Complement": {
+        "Locality": "Curitiba",
+        "Rote": "https://www.google.com/maps/@-23.6788703,-46.7731985,15.25z",
+        "Business": null,
+        "Title": "Public supermercados",
+        "Content": "Tudo nesse mercado é caro",
+        "Images": [
+            "https://nave5.com.br/images/comunicacao-externa-25.jpg",
+            "https://nave5.com.br/images/comunicacao-externa-25.jpg"
+        ]
+    }
+}
