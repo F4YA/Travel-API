@@ -2,9 +2,10 @@
 > Status do projeto: Em desenvolvimento :warning: <br/>
 <hr/>
 
-<div style="widht: 100%; heigth: 200px; backgroud-color:#0AFBC1; align-items: center;">
+<div align="center">
 <img src="https://github.com/F4YA/Travel-API/blob/main/img/Logo.svg">
 </div>
+
 ## Sumário 
   * [Descrição](Descrição)
   * [Funcionalidades](Funcionalidades)
