@@ -2,6 +2,8 @@
 > Status do projeto: Em desenvolvimento :warning: <br/>
 <hr/>
 
+<img src="https://github.com/F4YA/Travel-API/blob/main/img/Logo.svg" align="center">
+
 ## Sumário 
   * [Descrição](Descrição)
   * [Funcionalidades](Funcionalidades)
